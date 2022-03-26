@@ -1,6 +1,6 @@
 
 .nav-link {
-  background-color: #e2e2e2;
+  background-color: inherit;
   transition: background-color 400ms;
   padding: 15px;
   margin-left: 0px;
