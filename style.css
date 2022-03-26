@@ -2,8 +2,8 @@
 .nav-link {
   background-color: inherit;
   transition: background-color 400ms;
-  padding: 15px;
-  margin-left: 0px;
+  padding: 10px;
+  margin-left: 35px;
   margin-right: 1px;
   margin-bottom: 25px;
   font-size: 18px;
@@ -11,7 +11,6 @@
   color: #121212;
   font-family: Source Code Pro, system-ui;
   top: 50%;
-  text-align: center;
 }
 
 .nav-link:hover {
@@ -27,10 +26,6 @@ html {
 }
 
 body {
-  --main-color: #fefefe;
-  --light: #ffffff;
-  --light-no-override: #ffffff;
-  --section: #e1e7e9;
   font-family: Source Code Pro, system-ui;
   font-size: 1rem;
   background-color: white;
@@ -40,7 +35,8 @@ body {
 div.navbar-nav {
   list-style-type: none;
   margin: -8px;
-  padding: 15px;
+  margin-left: 35px;
+  padding: 10px;
   overflow: hidden;
   background-color: #c4c4c4;
   margin-top: -1%;
@@ -48,5 +44,4 @@ div.navbar-nav {
   text-decoration: none;
   text-decoration: none;
   color: #111111;
-  text-align: center;
 }
