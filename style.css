@@ -4,13 +4,14 @@
   transition: background-color 400ms;
   padding: 15px;
   margin-left: 0px;
-  margin-right: 0px;
+  margin-right: 1px;
   margin-bottom: 25px;
   font-size: 18px;
   text-decoration: none;
   color: #121212;
   font-family: Source Code Pro, system-ui;
   top: 50%;
+  text-align: center;
 }
 
 .nav-link:hover {
